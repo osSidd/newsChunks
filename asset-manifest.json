@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/newsChunks/static/css/main.c9b50f9a.css",
+    "main.js": "/newsChunks/static/js/main.c30deb34.js",
+    "static/media/logo.png": "/newsChunks/static/media/logo.8647110f4a03392e6db5.png",
+    "index.html": "/newsChunks/index.html",
+    "main.c9b50f9a.css.map": "/newsChunks/static/css/main.c9b50f9a.css.map",
+    "main.c30deb34.js.map": "/newsChunks/static/js/main.c30deb34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9b50f9a.css",
+    "static/js/main.c30deb34.js"
+  ]
+}
